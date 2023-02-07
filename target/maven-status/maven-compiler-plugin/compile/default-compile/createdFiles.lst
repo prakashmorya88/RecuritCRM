@@ -1,0 +1,5 @@
+base\Extend_Manager.class
+baseUtils\ConfigReader.class
+org\PagesCRM\PagesDashboard.class
+base\CustomTestNGListener.class
+org\PagesCRM\PagesLoginPage.class
